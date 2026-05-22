@@ -20,4 +20,4 @@ jobs:
         run: pip install requests
       
       - name: Run CPA Bot
-        run: python bot.py
+        run: python bot_advanced.py
